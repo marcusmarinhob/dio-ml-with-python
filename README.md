@@ -2,7 +2,7 @@
 Repositório criado para explorar conceitos de Machine Learning com Python.
 
 <h1 align="center">
-    <img alt="Python Codes" title="#MLPythonCodes" src="./python-ml-logo.png" width="320px" />
+    <img alt="Python Codes" title="#MLPythonCodes" src="./python-ml-logo.png" width="330px" />
 </h1>
 
 <h4 align="center"> 
